@@ -11,6 +11,7 @@
 
 /*Desktop*/
 @media (min-width: 1281px) {
+  
 
   #sponsors h2{
      font-size: 90px;
@@ -60,6 +61,7 @@
        float: right;
     }
     .rows .tranbox{
+      margin-left: 40px;
       height:130px ;
       width:270px;
     }
@@ -107,6 +109,7 @@ font-size: 60px;}
       width:auto;
     }
     .rows .tranbox{
+      margin-left: 0px;
       height:50px ;
       width:100px
     }
@@ -147,6 +150,7 @@ font-size: 80px;
       width:auto;
     }
      .rows .tranbox{
+       margin-left: 35px;
       height:120px ;
       width:250px;
     }
@@ -192,6 +196,7 @@ width:700px;}
     }
 
      .rows .tranbox{
+       margin-left: 30px;
       height:120px ;
       width:240px;
     }
@@ -799,7 +804,7 @@ display: table;
 }
 .tranbox{
   background-color: rgba(128,128,128,0.1);
-  margin-left: 0px;
+  
     margin-right: 40px;
     margin-bottom: 40px;
   border:6px solid rgba(255,255,255,0.1);
